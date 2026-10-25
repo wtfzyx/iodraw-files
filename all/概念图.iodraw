@@ -64,7 +64,7 @@
         <mxCell id="gYZceeytprhtZHTUYZGd-7" value="&lt;p style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&lt;br/&gt;&lt;font face=&quot;Liberation Serif, serif&quot;&gt;&lt;font style=&quot;font-size: 12pt&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;“AI&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;提效&lt;font face=&quot;Liberation Serif, serif&quot;&gt;&lt;font style=&quot;font-size: 12pt&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;+&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;基础优先”&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gYZceeytprhtZHTUYZGd-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="gYZceeytprhtZHTUYZGd-9" value="&lt;p style=&quot;line-height: 100%; margin-bottom: 0cm&quot;&gt;&amp;nbsp;新增每日算法练习与源码阅读，确保自己具备“审查&lt;font face=&quot;Liberation Serif, serif&quot;&gt;&lt;font style=&quot;font-size: 12pt&quot;&gt;&lt;span lang=&quot;en-US&quot;&gt;AI&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;代码”的底层硬实力&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
