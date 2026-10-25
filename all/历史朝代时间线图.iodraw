@@ -241,7 +241,7 @@
           <mxGeometry x="465" y="536" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-317" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="730" y="436" width="135" height="125" as="geometry" />
+          <mxGeometry x="730" y="436" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-318" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#3888FF;" parent="wHAK43lr651X1dbqD_7R-317" source="wHAK43lr651X1dbqD_7R-319" edge="1">
           <mxGeometry as="geometry">
@@ -251,11 +251,11 @@
         <mxCell id="wHAK43lr651X1dbqD_7R-319" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;rotation=-180;strokeColor=#3888FF;" parent="wHAK43lr651X1dbqD_7R-317" vertex="1">
           <mxGeometry x="48" y="72" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-320" value="汉朝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-317" vertex="1">
-          <mxGeometry x="40" width="40" height="20" as="geometry" />
+        <mxCell id="wHAK43lr651X1dbqD_7R-320" value="下定决心死磕一门有壁垒的技术" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-317" vertex="1">
+          <mxGeometry x="-40" y="-5" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-321" value="公元前202-公元220年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-317" vertex="1">
-          <mxGeometry x="-15" y="105" width="150" height="20" as="geometry" />
+        <mxCell id="wHAK43lr651X1dbqD_7R-321" value="现在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-317" vertex="1">
+          <mxGeometry x="35" y="100" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
