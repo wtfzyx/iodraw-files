@@ -23,7 +23,7 @@
           <mxGeometry x="-15" y="-5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-253" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="310" y="480" width="145" height="125" as="geometry" />
+          <mxGeometry x="310" y="480" width="175" height="125" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#3888FF;" parent="wHAK43lr651X1dbqD_7R-253" source="wHAK43lr651X1dbqD_7R-255" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -36,8 +36,8 @@
         <mxCell id="wHAK43lr651X1dbqD_7R-256" value="西周" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wHAK43lr651X1dbqD_7R-253" vertex="1">
           <mxGeometry x="40" y="105" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-257" value="公元前1046-公元前771年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wHAK43lr651X1dbqD_7R-253" vertex="1">
-          <mxGeometry x="-25" width="170" height="20" as="geometry" />
+        <mxCell id="wHAK43lr651X1dbqD_7R-257" value="填报志愿始终坚持填报计算机相关专业" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wHAK43lr651X1dbqD_7R-253" vertex="1">
+          <mxGeometry x="-55" y="-5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-258" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="170" y="436" width="165" height="130" as="geometry" />
