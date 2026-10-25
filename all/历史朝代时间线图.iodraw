@@ -40,7 +40,7 @@
           <mxGeometry x="-25" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-258" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="170" y="436" width="165" height="125" as="geometry" />
+          <mxGeometry x="170" y="436" width="165" height="130" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#3888FF;" parent="wHAK43lr651X1dbqD_7R-258" source="wHAK43lr651X1dbqD_7R-260" edge="1">
           <mxGeometry as="geometry">
@@ -53,8 +53,8 @@
         <mxCell id="wHAK43lr651X1dbqD_7R-261" value="商朝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-258" vertex="1">
           <mxGeometry x="40" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-262" value="约公元前1600-约公元前1046年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-258" vertex="1">
-          <mxGeometry x="-45" y="105" width="210" height="20" as="geometry" />
+        <mxCell id="wHAK43lr651X1dbqD_7R-262" value="高考失利但我并不退缩" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-258" vertex="1">
+          <mxGeometry x="-15" y="100" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-263" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="600" y="480" width="145" height="125" as="geometry" />
