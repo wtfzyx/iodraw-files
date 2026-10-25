@@ -101,18 +101,6 @@
         <mxCell id="wHAK43lr651X1dbqD_7R-276" value="对后端运维有兴趣，敲代码不会感觉很枯燥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-273" vertex="1">
           <mxGeometry x="-70" y="-5" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-293" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1450" y="437" width="120" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-296" value="南宋" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-293" vertex="1">
-          <mxGeometry x="40" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-303" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1690" y="437" width="120" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-306" value="明朝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-303" vertex="1">
-          <mxGeometry x="40" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#3888FF;" parent="1" source="wHAK43lr651X1dbqD_7R-314" edge="1">
           <mxGeometry x="470" y="436" as="geometry">
             <mxPoint x="530" y="461" as="targetPoint" />
