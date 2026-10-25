@@ -88,7 +88,7 @@
           <mxGeometry x="-70" y="100" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-273" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="990" y="437" width="120" height="125" as="geometry" />
+          <mxGeometry x="990" y="437" width="190" height="135" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-274" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;strokeColor=#3888FF;" parent="wHAK43lr651X1dbqD_7R-273" source="wHAK43lr651X1dbqD_7R-275" edge="1">
           <mxGeometry as="geometry">
@@ -98,11 +98,8 @@
         <mxCell id="wHAK43lr651X1dbqD_7R-275" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;rotation=-180;strokeColor=#3888FF;" parent="wHAK43lr651X1dbqD_7R-273" vertex="1">
           <mxGeometry x="48" y="72" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-276" value="隋朝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-273" vertex="1">
-          <mxGeometry x="40" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wHAK43lr651X1dbqD_7R-277" value="581-618年" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-273" vertex="1">
-          <mxGeometry x="20" y="105" width="80" height="20" as="geometry" />
+        <mxCell id="wHAK43lr651X1dbqD_7R-276" value="对后端运维有兴趣，敲代码不会感觉很枯燥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;" parent="wHAK43lr651X1dbqD_7R-273" vertex="1">
+          <mxGeometry x="-70" y="-5" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wHAK43lr651X1dbqD_7R-278" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1100" y="480" width="120" height="125" as="geometry" />
